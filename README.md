@@ -4,3 +4,6 @@
 文章 | 日期 
 ----- | -----
 [安静的下午](posts/peace-afternoon.md) | 2019-08-14
+
+* [安静的下午](posts/peace-afternoon.md)
+* [安静的下午](posts/peace-afternoon.md)
