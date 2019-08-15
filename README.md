@@ -2,4 +2,4 @@
 
 ## 文章列表
 * [安静的下午](posts/peace-afternoon.md)
-* [安静的下午](posts/peace-afternoon.md)
+* [技术文要这样写](posts/tech-article.md)
