@@ -102,7 +102,7 @@ Series可以理解为一维数组，它和一维数组的区别，在于Series�
   a    200
   Name: money, dtype: int64
   """
-  ```py
+  ```
   根据条件切片
   ```py
   money_series[money_series > 50] # 选取大于50的值
