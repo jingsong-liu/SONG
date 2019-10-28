@@ -5,3 +5,4 @@
 * [技术文要这样写](posts/tech-article.md)
 * [PPT设计基本指南](posts/ppt-design.md)
 * [Pandas处理时间序列数据](posts/pandas-timeseries.md)
+* [疲惫的下午](posts/sleepy-workday.md)
